@@ -44,7 +44,7 @@ print("[BABFT Loader] v2.0 Fixed Edition — запуск...")
 -- ============================================================
 -- Базовый URL репозитория
 -- Если ты заливаешь скрипты на свой GitHub — поменяй эту переменную!
-local REPO_URL = "https://raw.githubusercontent.com/TheRealAsu/BABFT/main"
+local REPO_URL = "https://raw.githubusercontent.com/sanekaleskandrov/sdffhhhhhh/main"
 
 -- Список доступных скриптов
 local SCRIPTS = {
